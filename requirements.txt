@@ -1,5 +1,5 @@
 streamlit
-pandas
-numpy
-dhanhq
+pandas==2.3.3
+numpy==2.3.5
+dhanhq==2.0.2
 requests
